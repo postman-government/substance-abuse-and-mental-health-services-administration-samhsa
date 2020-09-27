@@ -1,0 +1,18 @@
+title: Substance Abuse and Mental Health Services Administration (SAMHSA) API Resource Center
+description: This is a toolbox of API collections, visualizations, and tooling to help developers discover and put APIs to work as part of integrations and applications. Providing a single landing page, documentation, and Postman collections that can be easily run using the Postman platform.
+image: https://postman-toolboxes2.s3.amazonaws.com/assets/postman-government.png
+url: https://postman-toolboxes.github.io/substance-abuse-and-mental-health-services-administration-samhsa
+email: info@apievangelist.ccom
+
+github_user: postman-toolboxes
+github_repo: substance-abuse-and-mental-health-services-administration-samhsa
+github_branch: master
+
+version:      1.1.1
+author:
+  name:       'Kin Lane'
+  email:      'kin.lane@postman.com'
+markdown:     kramdown
+
+permalink: /:categories/:year/:month/:day/:title/
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
